@@ -1,4 +1,4 @@
-# Final Project for ITCS 3146  (Operating Systems and Networking) Term (First Summer 2021) 
+# Final Project for ITCS 3146  (Operating Systems and Networking). Term Taken: First Summer 2021
 
 1. Prepare 30 PowerPoint slides on the subject of Deadlocks (Chapter 6)
 
